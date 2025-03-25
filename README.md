@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hdvlp.
-- 👀 I’m interested in programming, "reliability-wise" and "security-wise". Like-minded people come together to improve a project, which produces interesting results.
+- 👀 I’m interested in programming, "reliability-wise" and "security-wise." Like-minded people come together to improve a project, which produces interesting results.
 - 🌱 I’m currently learning and using Java, C#, Go, Python, Bash, Node.js, JavaScript...
 - 💞️ I’m looking to collaborate on something I can use...
 - 📫 How to reach me ... (Not shown publicly)
